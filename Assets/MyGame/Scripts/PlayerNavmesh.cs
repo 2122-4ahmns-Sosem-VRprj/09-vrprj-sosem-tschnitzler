@@ -3,18 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class PlayerNavmesh : MonoBehaviour {
+public class PlayerNavMesh : MonoBehaviour {
 
     [SerializeField] private Transform movePositionTransform;
     private NavMeshAgent navMeshAgent;  
 
 private void Awake()
     {
-        GetComponent<NavMeshAgent>();
+        navMeshAgent = GetComponent<NavMeshAgent>();
     }
 
-
-    void Update()
+    private void Update()
     {
         navMeshAgent.destination = movePositionTransform.position;
     }
