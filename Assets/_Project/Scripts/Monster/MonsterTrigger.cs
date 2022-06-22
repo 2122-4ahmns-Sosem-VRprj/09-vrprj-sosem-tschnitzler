@@ -2,13 +2,15 @@ using UnityEngine;
 
 public class MonsterTrigger : MonoBehaviour
 {
-    public GameObject monster, counter;
+    public GameObject monster, counter, fAmbience, bAmbience;
     private bool done;
     private void OnTriggerEnter(Collider other)
     {
-        if (!other.CompareTag("Player") || done) return;
+       if (!other.CompareTag("Player") || done) return;
         monster.SetActive(true);
         counter.SetActive(false);
-        done = true;
+        fAmbience.SetActive(false);
+        bAmbience.SetActive(true);
+        done = true; 
     }
 }
