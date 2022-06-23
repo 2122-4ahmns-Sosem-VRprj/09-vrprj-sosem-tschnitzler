@@ -5,9 +5,9 @@
 Wilkommen bei meinem VR-Horror Spiel. 
 Hier dreht sich alles um das originale Backroom Erlebns. Hier gilt: Wer überlebt, hat gewonnen.
 
-## AB JETZT SPOILER
+# AB JETZT SPOILER
 
-# Ablauf
+## Ablauf
 
 Beim spawn wird man zuerst mit der Aufgabe konfrontiert 3 Eier zu finden. 
 Nachdem man sich ein wenig umgesehen hat, sind die ersten 2 recht schnell gefunden. Doch beim 3. wirds etwas komisch. Das Ei befindet sich auf einer Wasserlache. Wenn man sie betritt um das Ei zu sammeln, fällt man durch den Boden und findet sich in den Backrooms wieder. Überraschung! 
