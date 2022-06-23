@@ -13,7 +13,7 @@ Beim spawn wird man zuerst mit der Aufgabe konfrontiert 3 Eier zu finden.
 Nachdem man sich ein wenig umgesehen hat, sind die ersten 2 recht schnell gefunden. Doch beim 3. wirds etwas komisch. Das Ei befindet sich auf einer Wasserlache. Wenn man sie betritt um das Ei zu sammeln, fällt man durch den Boden und findet sich in den Backrooms wieder. Überraschung! 
 Jetzt verfolgt euch doch echt noch ein Monster! Schnell weg! Jetzt muss der Spieler schnell den richtigen Weg durch das Labyrinth finden, ohne dabei vom Monster erwischt zu werden.
 
-Wer die weiße Tür findet, hat gewonnen.
+Wer das Portal in die Freiheit findet, hat gewonnen.
 
 ## Third Party
 
